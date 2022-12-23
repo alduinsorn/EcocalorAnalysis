@@ -16,11 +16,13 @@ Base de donnée (SQL) extraite du système de base de données de l’applicatio
 ### Couleurs et typographie
 L'utilisation de TailwindCSS et DaisyUI permet de baser le design de l'application sur des classes CSS pré-définies et donc s'assurer que les couleurs et la typographie utilisées sont cohérentes et uniformes.
 
-Le couleurs utilisées sont celles du thème light de DaisyUI.
+Le couleurs utilisées sont celles du thème light de DaisyUI.  
+
 ![Palette de couleurs](./img/daisyUI-theme.png)
 
 La police de caractère utilisée est celle par défaut de TailwindCSS.
-Il s'agit de la police `Sans` qui est une police de caractère moderne et légère qui est facile à lire.
+Il s'agit de la police `Sans` qui est une police de caractère moderne et légère qui est facile à lire.  
+
 ![Police de caractère](./img/font-familly.png)
 
 ### Choix des représentation
@@ -81,5 +83,6 @@ python app.py
 npm run dev
 ```
 
-**Accéder à l'application** dans un navigateur web:
+**Accéder à l'application** dans un navigateur web:  
+
 à l'adresse http://localhost:5173
