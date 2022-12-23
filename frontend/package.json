@@ -1,0 +1,33 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fawmi/vue-google-maps": "^0.9.79",
+    "@vueform/multiselect": "^2.5.7",
+    "@vueform/slider": "^2.1.5",
+    "@vuepic/vue-datepicker": "^3.6.0",
+    "apexcharts": "^3.36.3",
+    "d3": "^7.8.0",
+    "daisyui": "^2.41.0",
+    "vue": "^3.2.41",
+    "vue-google-maps-community-fork": "^0.1.6",
+    "vue-worker": "^1.2.1",
+    "vue3-apexcharts": "^1.4.1",
+    "vue3-histogram-slider": "^0.4.16",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4",
+    "vite": "^3.2.3"
+  }
+}
